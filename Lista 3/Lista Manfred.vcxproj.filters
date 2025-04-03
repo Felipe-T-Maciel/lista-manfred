@@ -13,55 +13,58 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Arquivos de Origem\Lista 3">
+      <UniqueIdentifier>{e15aeec5-d72b-4703-bccb-0a87ae4d76d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="2.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="3.cpp">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="4.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="5.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="6.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="7.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="8.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="9.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="10.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="11.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="12.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="13.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="14.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
     <ClCompile Include="15.cpp">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Lista 3</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Arquivos de Origem\Lista 3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
