@@ -31,35 +31,3 @@ int main() {
 
   return 0;
 }
-
-void generateFibonacci(int n) {
-  int first = 0, second = 1, next;
-
-  printf("Fibonacci Sequence:\n");
-  for (int i = 0; i < n; i++) {
-    if (i <= 1) {
-      next = i;
-    } else {
-      next = first + second;
-      first = second;
-      second = next;
-    }
-    printf("%d ", next);
-  }
-  printf("\n");
-}
-
-int main() {
-  int n;
-
-  printf("Enter the number of Fibonacci numbers you want: ");
-  scanf("%d", &n);
-
-  if (n <= 0) {
-    printf("Please enter a positive integer.\n");
-  } else {
-    generateFibonacci(n);
-  }
-
-  return 0;
-}
