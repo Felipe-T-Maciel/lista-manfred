@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void main() {
+int main() {
     int dia, mes, ano;
     int bissexto = 0;
 
@@ -34,4 +34,5 @@ void main() {
     }
 
     printf("a data %02d/%02d/%04d é valida.\n", dia, mes, ano);
+    return 0;
 }
